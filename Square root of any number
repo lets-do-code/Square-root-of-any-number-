@@ -14,7 +14,7 @@ int n;
 
 cin>>n;
 
-cout<<"Square of the number is:\n"<<sqrt(n)<<endl;
+cout<<"Square root of the number is:\n"<<sqrt(n)<<endl;
 
 return 0;
 
